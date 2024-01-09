@@ -5,15 +5,9 @@
 - Project aims to create a Airbnb clone with using NextJS.
 - This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Description
+##The development process proceeded without notable architectural challenges, and the project smoothly integrated with Vercel via GitHub.
 
-- I prepared a small-scale project in order to understand the NextJS that I have learned recently.
-- I use Mabpox, react-map-gl and geolib for maps and locations and TailwindCSS for styling.
-- I found the project from Youtube([Sonny Sangha](https://www.youtube.com/@SonnySangha)). You can see the related video from [here](https://www.youtube.com/watch?v=b8gBIphfCqw)
 
-## Project Link
-
-#### You can reach my project from [here](https://nextjs-airbnb-clone-esadakman.vercel.app/) 👈
 
 ### Project Skeleton
 
@@ -81,3 +75,4 @@ Open http://localhost:3000 with your browser to see the result.
 ### Preview of the Project
 
  <img src="./airbnb-clone.gif" alt="gif"   />
+ ##NOTE The Mapbox functionality may not work on other devices because the token access is tied to the local machine where the integration has been set up.
